@@ -29,7 +29,7 @@
 
 5. **Preview the production build:**
    ```shell
-   npm run
+   npm run preview
  
 ## Assumptions or Limitations
 
