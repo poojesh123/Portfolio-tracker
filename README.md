@@ -17,15 +17,19 @@ Install dependencies:
 Ensure you have Node.js installed. Then run:
 
 npm install
-Run the development server:
+
+//Run the development server:
 
 npm run dev
-Build for production:
+
+//Build for production:
 
 npm run build
-Preview the production build:
 
-npm run preview
+//Preview the production build:
+ 
+ npm run preview
+ 
 Assumptions or Limitations
 Ensure that you have Node.js installed on your machine.
 This project uses Vite as the build tool.
