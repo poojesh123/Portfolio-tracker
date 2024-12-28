@@ -13,10 +13,11 @@
    ```shell
    git clone https://github.com/poojesh123/Portfolio-tracker.git
    cd Portfolio-tracker
-Install dependencies:
-Ensure you have Node.js installed. Then run:
+## Install dependencies:
+Ensure you have Node.js installed. 
+Then run:
 
-npm install
+ npm install
 
 //Run the development server:
 
@@ -30,7 +31,9 @@ npm run build
  
  npm run preview
  
-Assumptions or Limitations
+## Assumptions or Limitations
+
+
 Ensure that you have Node.js installed on your machine.
 This project uses Vite as the build tool.
 The application connects to a Supabase backend. You may need to configure your Supabase project and environment variables accordingly.
