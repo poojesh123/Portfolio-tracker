@@ -37,3 +37,7 @@
 Ensure that you have Node.js installed on your machine.
 This project uses Vite as the build tool.
 The application connects to a Supabase backend. You may need to configure your Supabase project and environment variables accordingly.
+
+## Links to the application
+You can run the application here
+https://stackblitz.com/edit/sb1-py2uvldc?file=index.html
