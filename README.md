@@ -13,23 +13,23 @@
    ```shell
    git clone https://github.com/poojesh123/Portfolio-tracker.git
    cd Portfolio-tracker
-## Install dependencies:
-Ensure you have Node.js installed. 
-Then run:
+2. **Install dependencies:**
+   Ensure you have Node.js installed. 
+  Then run:
+   ``` shell
+   npm install
 
- npm install
+3. **Run the development server:**
+   ```shell
+   npm run dev
 
-//Run the development server:
+4. **Build for production:**
+   ```shell
+   npm run build
 
-npm run dev
-
-//Build for production:
-
-npm run build
-
-//Preview the production build:
- 
- npm run preview
+5. **Preview the production build:**
+   ```shell
+   npm run
  
 ## Assumptions or Limitations
 
