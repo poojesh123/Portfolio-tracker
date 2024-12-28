@@ -1,8 +1,5 @@
 # Portfolio-tracker
 
-## Description
-Created with StackBlitz ⚡️
-
 ## Language Composition
 - TypeScript: 77.5%
 - PLpgSQL: 13.5%
